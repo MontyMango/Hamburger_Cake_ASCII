@@ -1,0 +1,18 @@
+val year = 2021
+
+fun main() {
+  println("\n ' ' ' '   < Fire on the Candles")
+  println(" | | | |   < Candles")
+  println(" =======   < Top Bun")
+  println(" -------   < Cheese")
+  println("{@~@~@~@}  < Meat Patty")
+  println(" =======   < Bottom Bun\n")
+  Border()
+  println("Happy Birthday America!\nYou are ${year} years old!")
+  Border()
+  println("\n(It's a hamburger cake :D, and I know America isn't ${year} years old lol.)")
+}
+
+fun Border() {
+  println("=========================")
+}
